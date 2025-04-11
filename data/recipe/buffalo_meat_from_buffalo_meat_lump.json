@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "food",
+  "ingredients": [
+    "firstmod:buffalo_meat_lump"
+  ],
+  "result": {
+    "count": 9,
+    "id": "firstmod:buffalo_meat"
+  }
+}

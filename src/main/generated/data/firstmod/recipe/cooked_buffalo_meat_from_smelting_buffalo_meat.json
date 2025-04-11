@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 180,
+  "experience": 0.4,
+  "group": "buffalo_meat",
+  "ingredient": "firstmod:buffalo_meat",
+  "result": {
+    "id": "firstmod:cooked_buffalo_meat"
+  }
+}

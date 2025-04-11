@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "A": "firstmod:aluminum_ingot",
+    "G": "minecraft:glowstone",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "ARA",
+    "RGR",
+    "ARA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "firstmod:aluminum_lamp"
+  }
+}

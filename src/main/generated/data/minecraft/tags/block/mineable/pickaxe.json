@@ -1,0 +1,18 @@
+{
+  "values": [
+    "firstmod:magic_block",
+    "firstmod:aluminum_block",
+    "firstmod:aluminum_lamp",
+    "firstmod:aluminum_ore",
+    "firstmod:deepslate_aluminum_ore",
+    "firstmod:aluminum_fence",
+    "firstmod:aluminum_fence_gate",
+    "firstmod:aluminum_wall",
+    "firstmod:aluminum_door",
+    "firstmod:aluminum_trapdoor",
+    "firstmod:aluminum_pressure_plate",
+    "firstmod:aluminum_button",
+    "firstmod:aluminum_slab",
+    "firstmod:aluminum_stairs"
+  ]
+}

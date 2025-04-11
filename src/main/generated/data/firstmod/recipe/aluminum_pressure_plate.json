@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "E": "minecraft:redstone_block",
+    "R": "firstmod:aluminum_block"
+  },
+  "pattern": [
+    "RR",
+    "EE"
+  ],
+  "result": {
+    "count": 32,
+    "id": "firstmod:aluminum_pressure_plate"
+  }
+}

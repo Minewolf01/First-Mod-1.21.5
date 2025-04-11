@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "firstmod:aluminum"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "firstmod:aluminum"
+      }
+    ]
+  }
+}

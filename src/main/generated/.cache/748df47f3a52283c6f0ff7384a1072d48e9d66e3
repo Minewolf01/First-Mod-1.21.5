@@ -1,0 +1,11 @@
+// 1.21.5	-999999999-01-01T00:00:00	First Mod/Tags for minecraft:block
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data/firstmod/tags/block/needs_aluminum_tool.json
+4e6818c2cfe9f2f0143ab9c6cfc0992752ce43d6 data/minecraft/tags/block/doors.json
+d5f9365baf68ee52ee08571d2e29465453d98c0a data/minecraft/tags/block/fence_gates.json
+f51d9298b8ac6ea994350788eed0287f8575893c data/minecraft/tags/block/fences.json
+5a854ecb37b5360ea2cac2453990e95d30a8ea14 data/minecraft/tags/block/mineable/hoe.json
+e51a799d879aad1bb9441c45dea1e5b989d712e5 data/minecraft/tags/block/mineable/pickaxe.json
+e51a799d879aad1bb9441c45dea1e5b989d712e5 data/minecraft/tags/block/needs_iron_tool.json
+e1e2ad5d076730f9ae7daa4af23076945b46fd0b data/minecraft/tags/block/pressure_plates.json
+8efff84bde1a25a23359c9899ed6b03dff9929c6 data/minecraft/tags/block/trapdoors.json
+e4a57986d63a14f149e5a425ae71fe98b565cbf3 data/minecraft/tags/block/walls.json

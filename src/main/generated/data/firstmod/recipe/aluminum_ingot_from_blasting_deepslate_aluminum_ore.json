@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 95,
+  "experience": 0.9,
+  "group": "aluminum",
+  "ingredient": "firstmod:deepslate_aluminum_ore",
+  "result": {
+    "id": "firstmod:aluminum_ingot"
+  }
+}

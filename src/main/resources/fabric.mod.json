@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "firstmod",
-	"version": "${version}",
+	"version": "0.0.1",
 	"name": "First Mod",
 	"description": "First Mod by Minewolf",
 	"authors": [
-		"Me!"
+		"Minewolf"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Minewolf01/First-Mod-1.21.5"
 	},
 	"license": "MIT",
 	"icon": "assets/firstmod/icon.png",
@@ -35,6 +35,6 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"another-mod": "Minewolf"
 	}
 }

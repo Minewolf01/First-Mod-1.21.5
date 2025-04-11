@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "firstmod:aluminum_ingot",
+    "R": "firstmod:aluminum_block"
+  },
+  "pattern": [
+    "ERE",
+    "ERE"
+  ],
+  "result": {
+    "count": 3,
+    "id": "firstmod:aluminum_fence_gate"
+  }
+}

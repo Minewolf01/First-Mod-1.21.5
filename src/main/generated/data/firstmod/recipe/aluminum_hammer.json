@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": "minecraft:stick",
+    "R": "firstmod:aluminum_ingot"
+  },
+  "pattern": [
+    "RRR",
+    "RRR",
+    " E "
+  ],
+  "result": {
+    "count": 1,
+    "id": "firstmod:aluminum_hammer"
+  }
+}

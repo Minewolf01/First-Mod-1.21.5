@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 99999999,
+  "experience": 0.5,
+  "group": "aluminum",
+  "ingredient": "firstmod:raw_aluminum",
+  "result": {
+    "id": "firstmod:aluminum_ingot"
+  }
+}

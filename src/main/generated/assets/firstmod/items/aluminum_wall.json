@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "firstmod:block/aluminum_wall_inventory"
+  }
+}

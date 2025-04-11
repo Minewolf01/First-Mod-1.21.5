@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "firstmod:aluminum_ingot"
+  ],
+  "result": {
+    "count": 1,
+    "id": "firstmod:aluminum_button"
+  }
+}

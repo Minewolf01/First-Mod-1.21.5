@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "firstmod:block/aluminum_lamp"
+    },
+    "clicked=true": {
+      "model": "firstmod:block/aluminum_lamp_on"
+    }
+  }
+}

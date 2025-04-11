@@ -1,0 +1,49 @@
+{
+  "item.firstmod.buffalo_meat": "Carabeef",
+  "item.firstmod.cooked_buffalo_meat": "Cooked Carabeef",
+  "item.firstmod.wand": "Wand",
+  "item.firstmod.raw_aluminum": "Raw Aluminum",
+  "item.firstmod.aluminum_ingot": "Aluminum Ingot",
+
+  "item.firstmod.buffalo_meat_lump": "Carabeef Lump",
+  "item.firstmod.magic_block": "Magic Block",
+  "item.firstmod.aluminum_block": "Aluminum Block",
+  "item.firstmod.aluminum_ore": "Aluminum Ore",
+  "item.firstmod.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+  "item.firstmod.aluminum_lamp": "Aluminum Lamp",
+
+  "item.firstmod.aluminum_trapdoor": "Aluminum Trapdoor",
+  "item.firstmod.aluminum_door": "Aluminum Door",
+
+  "item.firstmod.aluminum_button": "Aluminum Button",
+  "item.firstmod.aluminum_pressure_plate": "Aluminum Pressure Plate",
+
+  "item.firstmod.aluminum_fence": "Aluminum Fence",
+  "item.firstmod.aluminum_fence_gate": "Aluminum Fence Gate",
+  "item.firstmod.aluminum_wall": "Aluminum Wall",
+
+  "item.firstmod.aluminum_slab": "Aluminum Slab",
+  "item.firstmod.aluminum_stairs": "Aluminum Stairs",
+
+  "item.firstmod.aluminum_shovel": "Aluminum Shovel",
+  "item.firstmod.aluminum_pickaxe": "Aluminum Pickaxe",
+  "item.firstmod.aluminum_axe": "Aluminum Axe",
+  "item.firstmod.aluminum_hoe": "Aluminum Hoe",
+  "item.firstmod.aluminum_sword": "Aluminum Sword",
+  "item.firstmod.aluminum_hammer": "Aluminum Hammer",
+
+  "item.firstmod.aluminum_helmet": "Aluminum Helmet",
+  "item.firstmod.aluminum_chestplate": "Aluminum Chestplate",
+  "item.firstmod.aluminum_leggings": "Aluminum Leggings",
+  "item.firstmod.aluminum_boots": "Aluminum Boots",
+
+
+  "itemgroup.firstmod.food": "Food",
+  "itemgroup.firstmod.food_blocks": "Food Blocks",
+  "itemgroup.firstmod.minerals": "Minerals",
+  "itemgroup.firstmod.decorative_blocks": "Decorative Blocks",
+  "itemgroup.firstmod.tools_and_combat": "Tools & Combat",
+
+  "item.firstmod.wand.tooltipNonShift": "Press §6Shift§r to see more information!",
+  "item.firstmod.wand.tooltipWithShift": "§6Hello World!§r"
+}

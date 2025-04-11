@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 999999999,
+  "experience": 0.3,
+  "group": "aluminum",
+  "ingredient": "firstmod:aluminum_ore",
+  "result": {
+    "id": "firstmod:aluminum_ingot"
+  }
+}
